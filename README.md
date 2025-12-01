@@ -44,7 +44,7 @@ Clone this repository into your workspace:
 
 ```bash
 cd ~/ros2_ws/src
-git clone
+git clone https://github.com/sanskarmudnur2005/TIC_TAC_TOE_NIRYO_NED_2.git
 ```
 
 Build your workspace
